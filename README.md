@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there!
 
+I am a postdoc in statistics.
+
+(Logo under CC-BY-SA 3.0, author=Dnalor_01, source=Wikimedia Commons.)
 <!--
 **goepp/goepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
