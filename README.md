@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a postdoc in statistics.
+I am a postdoc in machine learning.
 
 (Logo under CC-BY-SA 3.0, author=Dnalor_01, source=Wikimedia Commons.)
 <!--
