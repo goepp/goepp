@@ -3,6 +3,9 @@
 I am a postdoc in machine learning.
 
 (Logo under CC-BY-SA 3.0, author=Dnalor_01, source=Wikimedia Commons.)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goepp)](https://github.com/goepp/github-readme-stats)
+
 <!--
 **goepp/goepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
