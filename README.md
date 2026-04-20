@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a postdoc in machine learning.
+I am a postdoc in AI/ML applied to multi-omics data in [KramannLab](https://www.kramannlab.com/) in RWTH Aachen University Hospital.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goepp)](https://github.com/goepp/github-readme-stats)
 
